@@ -1,0 +1,92 @@
+[
+    {
+        "id" : "1",
+        "title": "Fall Guys",
+        "platform": "Playstation 4",
+        "price": 10,
+        "description": "Fall Guys: Ultimate Knockout is a platformer battle royale game developed by Mediatonic.",
+        "released": "04/08/20",
+        "category": ["Platformer", "Multiplayer"]
+    },
+    {
+        "id" : "2",
+        "title": "Rust",
+        "platform": "PC",
+        "price": 5,
+        "description": "Rust is a multiplayer-only survival video game developed by Facepunch Studios.",
+        "released": "11/12/13",
+        "category": ["Survival", "Multiplayer"]
+    },
+    {
+        "id" : "3",
+        "title": "Firewatch",
+        "platform": "Xbox One",
+        "price": 6,
+        "description": "Firewatch is an adventure game developed by Campo Santo.",
+        "released": "30/09/16",
+        "category": ["Adventure", "Single-player"]
+    },
+    {
+        "id" : "4",
+        "title": "Kerbal Space Program",
+        "platform": "Xbox One",
+        "price": 8,
+        "description": "Kerbal Space Program (KSP) is a space flight simulation video game developed and published by Squad.",
+        "released": "15/07/16",
+        "category": ["Simulation", "Single-player"]
+    },
+    {
+        "id" : "5",
+        "title": "Hearthstone",
+        "platform": "PC",
+        "price": 5,
+        "description": "Hearthstone is a online digital collectible card game developed and published by Blizzard Entertainment.",
+        "released": "11/03/14",
+        "category": ["CCG", "Single-player"]
+    },
+    {
+        "id" : "6",
+        "title": "PGA Tour 2K21",
+        "platform": "",
+        "price": 15,
+        "description": "PGA Tour 2K21 is a sports video game developed by HB Studios and published by 2K Sports.",
+        "released": "21/08/20",
+        "category": ["Sports", "Multiplayer"]
+    },
+    {
+        "id" : "7",
+        "title": "Ori and the Will of the Wisps",
+        "platform": "Xbox One",
+        "price": 10,
+        "description": "Ori and the Will of the Wisps is a platform-adventure Metroidvania video game developed by Moon Studios.",
+        "released": "11/03/20",
+        "category": ["Platformer", "Single-player"]
+    },
+    {
+        "id" : "8",
+        "title": "Untitled Goose Game",
+        "platform": "Playstation 4",
+        "price": 8,
+        "description": "Untitled Goose Game is a 2019 puzzle stealth video game developed by Australian developer House House.",
+        "released": "17/12/19",
+        "category": ["Puzzle", "Single-player"]
+    },
+    {
+        "id" : "9",
+        "title": "Overcooked",
+        "platform": "Nintendo Switch",
+        "price": 6,
+        "description": "Overcooked is a cooking simulation game developed by Ghost Town Games and published by Team17.",
+        "released": "27/07/17",
+        "category": ["Puzzle", "Multiplayer"]
+    },
+    {
+        "id" : "10",
+        "title": "Two Point Hospital",
+        "platform": "PC",
+        "price": 12,
+        "description": "Two Point Hospital is a 2018 business simulation game developed by Two Point Studios and published by Sega.",
+        "released": "30/07/18",
+        "category": ["Simulation","Single-player"]
+    }
+]
